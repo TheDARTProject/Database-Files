@@ -116,4 +116,4 @@
 - **Discord IDs**: 4531 entries
 - **Malicious URLs**: 813 entries
 - **Discord Servers**: 764 entries
-- **Global URLs**: 40699 entries
+- **Global Domains**: 35635 entries
