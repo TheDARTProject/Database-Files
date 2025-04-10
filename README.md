@@ -16,9 +16,6 @@ Primary repository for storing and managing threat intelligence data.
 - `Edit-Database/`: Staging area for changes
 - `Excel-Import-Export/`: Templates for data transfer
 
-## Schema Documentation
-All JSON files follow standardized schemas documented in our [Data Dictionary](https://thedartproject.github.io/info).
-
 ## Data Management
 1. Make changes in `Edit-Database/`
 2. Validate with Database Tools
@@ -26,6 +23,18 @@ All JSON files follow standardized schemas documented in our [Data Dictionary](h
 4. Approved changes are merged to `Main-Database/`
 
 ⚠️ **Warning**: Never edit `Main-Database/` directly.
+
+<!-- INSPECTION-START -->
+## Latest Database Inspection - 2025-04-10
+
+**Inspection File**: [`Inspection.md`](Inspection-Database/Inspection.md)  
+**Total Cases**: 4570
+
+- **Discord IDs**: 4531 entries
+- **Malicious URLs**: 813 entries
+- **Discord Servers**: 764 entries
+- **Global URLs**: 40699 entries
+<!-- INSPECTION-END -->
 
 <div align="center">
 
