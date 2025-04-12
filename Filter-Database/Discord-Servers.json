@@ -77138,5 +77138,15 @@
         "SERVER_STATUS_CHANGE": "UNKNOWN",
         "INVITE_STATUS": "UNKNOWN",
         "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7715": {
+        "INVITE_URL": "https://discord.com/invite/5Zqzw5AUAB",
+        "FOUND_ON": 1500670484,
+        "SERVER_ID": "338061258563649537",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
     }
 }
