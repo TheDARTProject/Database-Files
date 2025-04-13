@@ -110230,5 +110230,29 @@
         "FINAL_URL_STATUS": "UNKNOWN",
         "NON_ASCII_USERNAME": false,
         "LAST_CHECK": "2025-04-13T00:06:18.255730"
+    },
+    "ACCOUNT_NUMBER_4594": {
+        "CASE_NUMBER": "4594",
+        "FOUND_ON": "2025-04-13",
+        "FOUND_ON_SERVER": "ANONYMOUS_SERVER_2",
+        "DISCORD_ID": "394869373740777473",
+        "USERNAME": "wise_guava_57256",
+        "ACCOUNT_STATUS": "COMPROMISED",
+        "ACCOUNT_TYPE": "User Accounts",
+        "ACCOUNT_CREATION": "2017-12-25",
+        "BEHAVIOUR": "Automated Messaging Campaigns",
+        "ATTACK_METHOD": "Phishing Website",
+        "ATTACK_VECTOR": "Cloned Steam Pages",
+        "ATTACK_GOAL": "Steam Accounts",
+        "ATTACK_SURFACE": "Steam",
+        "SUSPECTED_REGION_OF_ORIGIN": "N/A",
+        "SURFACE_URL": "No URL Detected",
+        "SURFACE_URL_DOMAIN": "No URL Detected",
+        "SURFACE_URL_STATUS": "UNKNOWN",
+        "FINAL_URL": "No URL Detected",
+        "FINAL_URL_DOMAIN": "No URL Detected",
+        "FINAL_URL_STATUS": "UNKNOWN",
+        "NON_ASCII_USERNAME": false,
+        "LAST_CHECK": "2025-04-13T22:35:56.866536"
     }
 }
