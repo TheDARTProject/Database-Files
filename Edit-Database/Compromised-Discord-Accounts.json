@@ -77273,10 +77273,10 @@
         "SURFACE_URL": "https://funpay.com/uk/lots/offer?id=25363702",
         "SURFACE_URL_DOMAIN": "funpay.com",
         "FINAL_URL": "https://funpay.com/uk/lots/offer?id=25363702",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://funpay.com/en/lots/offer?id=25363702",
         "FINAL_URL_DOMAIN": "funpay.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
         "LAST_CHECK": "2025-04-14T20:58:54.856065"
     },
@@ -77298,10 +77298,10 @@
         "SURFACE_URL": "https://funpay.com/uk/lots/offer?id=25388076",
         "SURFACE_URL_DOMAIN": "funpay.com",
         "FINAL_URL": "https://funpay.com/uk/lots/offer?id=25388076",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://funpay.com/en/lots/offer?id=25388076",
         "FINAL_URL_DOMAIN": "funpay.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
         "LAST_CHECK": "2025-04-14T20:58:54.856065"
     },
@@ -77347,10 +77347,10 @@
         "SURFACE_URL": "https://funpay.com/uk/lots/offer?id=25388076",
         "SURFACE_URL_DOMAIN": "funpay.com",
         "FINAL_URL": "https://funpay.com/uk/lots/offer?id=25388076",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://funpay.com/en/lots/offer?id=25388076",
         "FINAL_URL_DOMAIN": "funpay.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
         "LAST_CHECK": "2025-04-14T20:58:54.856065"
     },
@@ -77539,11 +77539,10 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://funpay.com/uk/lots/offer?id=25388076",
         "SURFACE_URL_DOMAIN": "funpay.com",
-        "FINAL_URL": "https://funpay.com/uk/lots/offer?id=25388076",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://funpay.com/en/lots/offer?id=25388076",
         "FINAL_URL_DOMAIN": "funpay.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
         "LAST_CHECK": "2025-04-14T20:58:54.856065"
     },
@@ -77732,11 +77731,10 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://funpay.com/uk/lots/offer?id=25388076",
         "SURFACE_URL_DOMAIN": "funpay.com",
-        "FINAL_URL": "https://funpay.com/uk/lots/offer?id=25388076",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://funpay.com/en/lots/offer?id=25388076",
         "FINAL_URL_DOMAIN": "funpay.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
         "LAST_CHECK": "2025-04-14T20:58:54.856065"
     },
@@ -83980,7 +83978,6 @@
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
         "LAST_CHECK": "2025-04-07T23:46:10.434201"
-        "LAST_CHECK": "2025-04-14T21:49:05.888965"
     },
     "ACCOUNT_NUMBER_3500": {
         "CASE_NUMBER": "3500",
@@ -109589,7 +109586,6 @@
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
         "LAST_CHECK": "2025-04-09T02:36:30.479033"
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
     },
     "ACCOUNT_NUMBER_4567": {
         "CASE_NUMBER": "4567",
