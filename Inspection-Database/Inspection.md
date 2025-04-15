@@ -1,10 +1,10 @@
 <div align="center">
 
-# Database Inspection - 2025-04-14
+# Database Inspection - 2025-04-16
 
-## Total Cases: 4596
+## Total Cases: 4597
 
-## Protected Members: 333,911
+## Protected Members: 333,795
 
 </div>
 
@@ -25,13 +25,11 @@
 - COMPROMISED
 - DELETED
 - OPERATIONAL
-- UNKNOWN
 
 ## Account Type
 - Burner Accounts
 - Deleted Accounts
 - Scraper Accounts
-- UNKNOWN
 - User Accounts
 
 ## Behaviour
@@ -115,6 +113,6 @@
 - UNKNOWN
 
 ## Additional Entries
-- **Discord IDs**: 4555 entries
-- **Discord Servers**: 7722 entries
-- **Global Domains**: 35647 entries
+- **Discord IDs**: 4558 entries
+- **Discord Servers**: 7726 entries
+- **Global Domains**: 35659 entries
