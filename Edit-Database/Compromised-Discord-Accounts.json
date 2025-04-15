@@ -77272,9 +77272,8 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://funpay.com/uk/lots/offer?id=25363702",
         "SURFACE_URL_DOMAIN": "funpay.com",
-        "FINAL_URL": "https://funpay.com/uk/lots/offer?id=25363702",
-        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://funpay.com/en/lots/offer?id=25363702",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL_DOMAIN": "funpay.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
@@ -77297,9 +77296,8 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://funpay.com/uk/lots/offer?id=25388076",
         "SURFACE_URL_DOMAIN": "funpay.com",
-        "FINAL_URL": "https://funpay.com/uk/lots/offer?id=25388076",
-        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://funpay.com/en/lots/offer?id=25388076",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL_DOMAIN": "funpay.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
@@ -77346,9 +77344,8 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://funpay.com/uk/lots/offer?id=25388076",
         "SURFACE_URL_DOMAIN": "funpay.com",
-        "FINAL_URL": "https://funpay.com/uk/lots/offer?id=25388076",
-        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://funpay.com/en/lots/offer?id=25388076",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL_DOMAIN": "funpay.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
@@ -81403,7 +81400,6 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://telegra.ph/Adobe-GRATIS-2024-FULL-ESPANOL-02-24",
         "SURFACE_URL_DOMAIN": "telegra.ph",
-        "SURFACE_URL_STATUS": "ACTIVE",
         "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://telegra.ph/Adobe-GRATIS-2024-FULL-ESPANOL-02-24",
         "FINAL_URL_DOMAIN": "telegra.ph",
@@ -88417,7 +88413,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:19.687527"
+        "LAST_CHECK": "2025-04-15T23:30:22.440006"
     },
     "ACCOUNT_NUMBER_3685": {
         "CASE_NUMBER": "3685",
@@ -88441,7 +88437,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:22.825491"
+        "LAST_CHECK": "2025-04-15T23:30:25.637756"
     },
     "ACCOUNT_NUMBER_3686": {
         "CASE_NUMBER": "3686",
@@ -88465,7 +88461,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:25.965705"
+        "LAST_CHECK": "2025-04-15T23:30:28.810710"
     },
     "ACCOUNT_NUMBER_3687": {
         "CASE_NUMBER": "3687",
@@ -88489,7 +88485,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:26.092612"
+        "LAST_CHECK": "2025-04-15T23:30:31.952062"
     },
     "ACCOUNT_NUMBER_3688": {
         "CASE_NUMBER": "3688",
@@ -88585,7 +88581,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:29.224477"
+        "LAST_CHECK": "2025-04-15T23:30:35.094802"
     },
     "ACCOUNT_NUMBER_3692": {
         "CASE_NUMBER": "3692",
@@ -88609,7 +88605,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:32.366759"
+        "LAST_CHECK": "2025-04-15T23:30:38.230202"
     },
     "ACCOUNT_NUMBER_3693": {
         "CASE_NUMBER": "3693",
@@ -88657,7 +88653,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:35.501101"
+        "LAST_CHECK": "2025-04-15T23:30:41.378816"
     },
     "ACCOUNT_NUMBER_3695": {
         "CASE_NUMBER": "3695",
@@ -88676,12 +88672,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/nitrox",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/nitrox",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:38.630226"
+        "LAST_CHECK": "2025-04-15T23:30:44.514165"
     },
     "ACCOUNT_NUMBER_3696": {
         "CASE_NUMBER": "3696",
@@ -88705,7 +88701,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:41.773966"
+        "LAST_CHECK": "2025-04-15T23:30:47.659051"
     },
     "ACCOUNT_NUMBER_3697": {
         "CASE_NUMBER": "3697",
@@ -89017,7 +89013,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:41.905967"
+        "LAST_CHECK": "2025-04-15T23:30:47.788047"
     },
     "ACCOUNT_NUMBER_3710": {
         "CASE_NUMBER": "3710",
@@ -89041,7 +89037,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:42.037967"
+        "LAST_CHECK": "2025-04-15T23:30:50.925116"
     },
     "ACCOUNT_NUMBER_3711": {
         "CASE_NUMBER": "3711",
@@ -89156,12 +89152,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/teen-girl",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/teen-girl",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:45.182428"
+        "LAST_CHECK": "2025-04-15T23:30:54.070362"
     },
     "ACCOUNT_NUMBER_3716": {
         "CASE_NUMBER": "3716",
@@ -89228,12 +89224,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/teengirls",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/teengirls",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:48.325479"
+        "LAST_CHECK": "2025-04-15T23:30:57.209225"
     },
     "ACCOUNT_NUMBER_3719": {
         "CASE_NUMBER": "3719",
@@ -89252,12 +89248,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/teengirls",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/teengirls",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:48.453503"
+        "LAST_CHECK": "2025-04-15T23:30:57.339225"
     },
     "ACCOUNT_NUMBER_3720": {
         "CASE_NUMBER": "3720",
@@ -89276,12 +89272,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/teen-girl",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/teen-girl",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:48.581503"
+        "LAST_CHECK": "2025-04-15T23:30:57.486224"
     },
     "ACCOUNT_NUMBER_3721": {
         "CASE_NUMBER": "3721",
@@ -89353,7 +89349,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:51.711166"
+        "LAST_CHECK": "2025-04-15T23:31:00.630581"
     },
     "ACCOUNT_NUMBER_3724": {
         "CASE_NUMBER": "3724",
@@ -89377,7 +89373,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:54.846098"
+        "LAST_CHECK": "2025-04-15T23:31:03.805001"
     },
     "ACCOUNT_NUMBER_3725": {
         "CASE_NUMBER": "3725",
@@ -89785,7 +89781,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:57.989264"
+        "LAST_CHECK": "2025-04-15T23:31:06.931597"
     },
     "ACCOUNT_NUMBER_3742": {
         "CASE_NUMBER": "3742",
@@ -89900,12 +89896,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/teen-girl",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/teen-girl",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:51:58.117257"
+        "LAST_CHECK": "2025-04-15T23:31:07.056089"
     },
     "ACCOUNT_NUMBER_3747": {
         "CASE_NUMBER": "3747",
@@ -90001,7 +89997,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:01.253262"
+        "LAST_CHECK": "2025-04-15T23:31:10.194385"
     },
     "ACCOUNT_NUMBER_3751": {
         "CASE_NUMBER": "3751",
@@ -90073,7 +90069,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:04.404171"
+        "LAST_CHECK": "2025-04-15T23:31:13.330609"
     },
     "ACCOUNT_NUMBER_3754": {
         "CASE_NUMBER": "3754",
@@ -90092,12 +90088,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/nsfwporn",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/nsfwporn",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:07.543344"
+        "LAST_CHECK": "2025-04-15T23:31:16.467143"
     },
     "ACCOUNT_NUMBER_3755": {
         "CASE_NUMBER": "3755",
@@ -90145,7 +90141,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:10.683148"
+        "LAST_CHECK": "2025-04-15T23:31:19.600697"
     },
     "ACCOUNT_NUMBER_3757": {
         "CASE_NUMBER": "3757",
@@ -90241,7 +90237,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:10.811829"
+        "LAST_CHECK": "2025-04-15T23:31:19.724699"
     },
     "ACCOUNT_NUMBER_3761": {
         "CASE_NUMBER": "3761",
@@ -90409,7 +90405,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:10.940798"
+        "LAST_CHECK": "2025-04-15T23:31:22.867722"
     },
     "ACCOUNT_NUMBER_3768": {
         "CASE_NUMBER": "3768",
@@ -90524,12 +90520,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/teengirls",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/teengirls",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:11.071797"
+        "LAST_CHECK": "2025-04-15T23:31:22.992703"
     },
     "ACCOUNT_NUMBER_3773": {
         "CASE_NUMBER": "3773",
@@ -90553,7 +90549,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:14.213335"
+        "LAST_CHECK": "2025-04-15T23:31:26.133399"
     },
     "ACCOUNT_NUMBER_3774": {
         "CASE_NUMBER": "3774",
@@ -90577,7 +90573,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:14.340305"
+        "LAST_CHECK": "2025-04-15T23:31:26.259301"
     },
     "ACCOUNT_NUMBER_3775": {
         "CASE_NUMBER": "3775",
@@ -90716,12 +90712,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/e-porns",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/e-porns",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:17.470881"
+        "LAST_CHECK": "2025-04-15T23:31:29.390544"
     },
     "ACCOUNT_NUMBER_3781": {
         "CASE_NUMBER": "3781",
@@ -90769,7 +90765,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:17.601955"
+        "LAST_CHECK": "2025-04-15T23:31:29.520543"
     },
     "ACCOUNT_NUMBER_3783": {
         "CASE_NUMBER": "3783",
@@ -90793,7 +90789,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:17.729338"
+        "LAST_CHECK": "2025-04-15T23:31:29.646545"
     },
     "ACCOUNT_NUMBER_3784": {
         "CASE_NUMBER": "3784",
@@ -90841,7 +90837,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:20.864825"
+        "LAST_CHECK": "2025-04-15T23:31:32.778131"
     },
     "ACCOUNT_NUMBER_3786": {
         "CASE_NUMBER": "3786",
@@ -90865,7 +90861,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:20.993825"
+        "LAST_CHECK": "2025-04-15T23:31:32.908111"
     },
     "ACCOUNT_NUMBER_3787": {
         "CASE_NUMBER": "3787",
@@ -90985,7 +90981,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:24.136291"
+        "LAST_CHECK": "2025-04-15T23:31:36.057106"
     },
     "ACCOUNT_NUMBER_3792": {
         "CASE_NUMBER": "3792",
@@ -91009,7 +91005,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:27.273508"
+        "LAST_CHECK": "2025-04-15T23:31:39.191724"
     },
     "ACCOUNT_NUMBER_3793": {
         "CASE_NUMBER": "3793",
@@ -91057,7 +91053,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:30.406194"
+        "LAST_CHECK": "2025-04-15T23:31:42.330774"
     },
     "ACCOUNT_NUMBER_3795": {
         "CASE_NUMBER": "3795",
@@ -91076,12 +91072,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/e-porns",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/e-porns",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:30.539164"
+        "LAST_CHECK": "2025-04-15T23:31:42.455798"
     },
     "ACCOUNT_NUMBER_3796": {
         "CASE_NUMBER": "3796",
@@ -91201,7 +91197,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:33.678910"
+        "LAST_CHECK": "2025-04-15T23:31:45.602824"
     },
     "ACCOUNT_NUMBER_3801": {
         "CASE_NUMBER": "3801",
@@ -91249,7 +91245,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:33.818908"
+        "LAST_CHECK": "2025-04-15T23:31:45.726851"
     },
     "ACCOUNT_NUMBER_3803": {
         "CASE_NUMBER": "3803",
@@ -91489,7 +91485,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:36.972925"
+        "LAST_CHECK": "2025-04-15T23:31:48.860627"
     },
     "ACCOUNT_NUMBER_3813": {
         "CASE_NUMBER": "3813",
@@ -91513,7 +91509,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:40.119033"
+        "LAST_CHECK": "2025-04-15T23:31:51.998578"
     },
     "ACCOUNT_NUMBER_3814": {
         "CASE_NUMBER": "3814",
@@ -91556,12 +91552,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/sexygood",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/sexygood",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:43.258897"
+        "LAST_CHECK": "2025-04-15T23:31:55.144253"
     },
     "ACCOUNT_NUMBER_3816": {
         "CASE_NUMBER": "3816",
@@ -91652,12 +91648,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/h0tg1rls",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/h0tg1rls",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:46.403518"
+        "LAST_CHECK": "2025-04-15T23:31:58.325982"
     },
     "ACCOUNT_NUMBER_3820": {
         "CASE_NUMBER": "3820",
@@ -91676,12 +91672,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/h0tg1rls",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/h0tg1rls",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:46.549517"
+        "LAST_CHECK": "2025-04-15T23:31:58.453013"
     },
     "ACCOUNT_NUMBER_3821": {
         "CASE_NUMBER": "3821",
@@ -91729,7 +91725,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:49.701729"
+        "LAST_CHECK": "2025-04-15T23:32:01.592187"
     },
     "ACCOUNT_NUMBER_3823": {
         "CASE_NUMBER": "3823",
@@ -91777,7 +91773,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:52.885886"
+        "LAST_CHECK": "2025-04-15T23:32:04.722208"
     },
     "ACCOUNT_NUMBER_3825": {
         "CASE_NUMBER": "3825",
@@ -91945,7 +91941,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:56.020428"
+        "LAST_CHECK": "2025-04-15T23:32:07.866866"
     },
     "ACCOUNT_NUMBER_3832": {
         "CASE_NUMBER": "3832",
@@ -92521,7 +92517,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:56.148464"
+        "LAST_CHECK": "2025-04-15T23:32:07.990898"
     },
     "ACCOUNT_NUMBER_3856": {
         "CASE_NUMBER": "3856",
@@ -92545,7 +92541,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:52:59.300152"
+        "LAST_CHECK": "2025-04-15T23:32:11.117231"
     },
     "ACCOUNT_NUMBER_3857": {
         "CASE_NUMBER": "3857",
@@ -92569,7 +92565,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:02.447889"
+        "LAST_CHECK": "2025-04-15T23:32:14.254754"
     },
     "ACCOUNT_NUMBER_3858": {
         "CASE_NUMBER": "3858",
@@ -92593,7 +92589,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:05.605131"
+        "LAST_CHECK": "2025-04-15T23:32:17.395508"
     },
     "ACCOUNT_NUMBER_3859": {
         "CASE_NUMBER": "3859",
@@ -92641,7 +92637,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:08.747127"
+        "LAST_CHECK": "2025-04-15T23:32:20.526437"
     },
     "ACCOUNT_NUMBER_3861": {
         "CASE_NUMBER": "3861",
@@ -92905,7 +92901,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:08.876062"
+        "LAST_CHECK": "2025-04-15T23:32:20.651985"
     },
     "ACCOUNT_NUMBER_3872": {
         "CASE_NUMBER": "3872",
@@ -92929,7 +92925,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:12.023183"
+        "LAST_CHECK": "2025-04-15T23:32:23.796528"
     },
     "ACCOUNT_NUMBER_3873": {
         "CASE_NUMBER": "3873",
@@ -92953,7 +92949,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:15.163555"
+        "LAST_CHECK": "2025-04-15T23:32:26.939352"
     },
     "ACCOUNT_NUMBER_3874": {
         "CASE_NUMBER": "3874",
@@ -93025,7 +93021,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:18.292325"
+        "LAST_CHECK": "2025-04-15T23:32:30.073477"
     },
     "ACCOUNT_NUMBER_3877": {
         "CASE_NUMBER": "3877",
@@ -93049,7 +93045,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:21.453668"
+        "LAST_CHECK": "2025-04-15T23:32:33.209079"
     },
     "ACCOUNT_NUMBER_3878": {
         "CASE_NUMBER": "3878",
@@ -93092,12 +93088,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/nsfwspot",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/nsfwspot",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:24.595601"
+        "LAST_CHECK": "2025-04-15T23:32:36.347432"
     },
     "ACCOUNT_NUMBER_3880": {
         "CASE_NUMBER": "3880",
@@ -93145,7 +93141,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:27.733494"
+        "LAST_CHECK": "2025-04-15T23:32:39.476111"
     },
     "ACCOUNT_NUMBER_3882": {
         "CASE_NUMBER": "3882",
@@ -93193,7 +93189,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:27.861948"
+        "LAST_CHECK": "2025-04-15T23:32:39.601173"
     },
     "ACCOUNT_NUMBER_3884": {
         "CASE_NUMBER": "3884",
@@ -93241,7 +93237,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:31.000007"
+        "LAST_CHECK": "2025-04-15T23:32:42.736489"
     },
     "ACCOUNT_NUMBER_3886": {
         "CASE_NUMBER": "3886",
@@ -93337,7 +93333,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:31.129007"
+        "LAST_CHECK": "2025-04-15T23:32:42.860395"
     },
     "ACCOUNT_NUMBER_3890": {
         "CASE_NUMBER": "3890",
@@ -93577,7 +93573,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:34.274835"
+        "LAST_CHECK": "2025-04-15T23:32:45.994510"
     },
     "ACCOUNT_NUMBER_3900": {
         "CASE_NUMBER": "3900",
@@ -93601,7 +93597,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:37.405616"
+        "LAST_CHECK": "2025-04-15T23:32:49.124506"
     },
     "ACCOUNT_NUMBER_3901": {
         "CASE_NUMBER": "3901",
@@ -93697,7 +93693,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:40.544039"
+        "LAST_CHECK": "2025-04-15T23:32:52.267129"
     },
     "ACCOUNT_NUMBER_3905": {
         "CASE_NUMBER": "3905",
@@ -93769,7 +93765,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:43.680712"
+        "LAST_CHECK": "2025-04-15T23:32:55.399670"
     },
     "ACCOUNT_NUMBER_3908": {
         "CASE_NUMBER": "3908",
@@ -93841,7 +93837,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:46.820861"
+        "LAST_CHECK": "2025-04-15T23:32:58.524943"
     },
     "ACCOUNT_NUMBER_3911": {
         "CASE_NUMBER": "3911",
@@ -93865,7 +93861,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:49.960603"
+        "LAST_CHECK": "2025-04-15T23:33:01.659676"
     },
     "ACCOUNT_NUMBER_3912": {
         "CASE_NUMBER": "3912",
@@ -93913,7 +93909,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:50.092637"
+        "LAST_CHECK": "2025-04-15T23:33:01.789675"
     },
     "ACCOUNT_NUMBER_3914": {
         "CASE_NUMBER": "3914",
@@ -93937,7 +93933,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:53.229894"
+        "LAST_CHECK": "2025-04-15T23:33:04.921367"
     },
     "ACCOUNT_NUMBER_3915": {
         "CASE_NUMBER": "3915",
@@ -94009,7 +94005,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:53.360886"
+        "LAST_CHECK": "2025-04-15T23:33:05.047424"
     },
     "ACCOUNT_NUMBER_3918": {
         "CASE_NUMBER": "3918",
@@ -94033,7 +94029,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:56.498323"
+        "LAST_CHECK": "2025-04-15T23:33:08.178488"
     },
     "ACCOUNT_NUMBER_3919": {
         "CASE_NUMBER": "3919",
@@ -94057,7 +94053,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:56.635321"
+        "LAST_CHECK": "2025-04-15T23:33:08.310185"
     },
     "ACCOUNT_NUMBER_3920": {
         "CASE_NUMBER": "3920",
@@ -94105,7 +94101,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:56.764323"
+        "LAST_CHECK": "2025-04-15T23:33:08.438182"
     },
     "ACCOUNT_NUMBER_3922": {
         "CASE_NUMBER": "3922",
@@ -94225,7 +94221,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:53:56.895322"
+        "LAST_CHECK": "2025-04-15T23:33:08.574182"
     },
     "ACCOUNT_NUMBER_3927": {
         "CASE_NUMBER": "3927",
@@ -94244,12 +94240,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/egirl-paradise",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/egirl-paradise",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:00.027425"
+        "LAST_CHECK": "2025-04-15T23:33:11.737157"
     },
     "ACCOUNT_NUMBER_3928": {
         "CASE_NUMBER": "3928",
@@ -94273,7 +94269,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:00.161424"
+        "LAST_CHECK": "2025-04-15T23:33:11.865222"
     },
     "ACCOUNT_NUMBER_3929": {
         "CASE_NUMBER": "3929",
@@ -94417,7 +94413,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:00.293427"
+        "LAST_CHECK": "2025-04-15T23:33:11.991237"
     },
     "ACCOUNT_NUMBER_3935": {
         "CASE_NUMBER": "3935",
@@ -94441,7 +94437,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:00.429424"
+        "LAST_CHECK": "2025-04-15T23:33:12.116307"
     },
     "ACCOUNT_NUMBER_3936": {
         "CASE_NUMBER": "3936",
@@ -94465,7 +94461,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:00.560426"
+        "LAST_CHECK": "2025-04-15T23:33:12.247288"
     },
     "ACCOUNT_NUMBER_3937": {
         "CASE_NUMBER": "3937",
@@ -94657,7 +94653,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:00.691423"
+        "LAST_CHECK": "2025-04-15T23:33:12.375294"
     },
     "ACCOUNT_NUMBER_3945": {
         "CASE_NUMBER": "3945",
@@ -94681,7 +94677,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:00.827424"
+        "LAST_CHECK": "2025-04-15T23:33:12.509332"
     },
     "ACCOUNT_NUMBER_3946": {
         "CASE_NUMBER": "3946",
@@ -94777,7 +94773,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:00.964425"
+        "LAST_CHECK": "2025-04-15T23:33:12.636946"
     },
     "ACCOUNT_NUMBER_3950": {
         "CASE_NUMBER": "3950",
@@ -94801,7 +94797,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:04.098088"
+        "LAST_CHECK": "2025-04-15T23:33:15.775133"
     },
     "ACCOUNT_NUMBER_3951": {
         "CASE_NUMBER": "3951",
@@ -94849,7 +94845,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:07.246292"
+        "LAST_CHECK": "2025-04-15T23:33:18.904813"
     },
     "ACCOUNT_NUMBER_3953": {
         "CASE_NUMBER": "3953",
@@ -94897,7 +94893,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:10.395306"
+        "LAST_CHECK": "2025-04-15T23:33:22.031054"
     },
     "ACCOUNT_NUMBER_3955": {
         "CASE_NUMBER": "3955",
@@ -94945,7 +94941,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:10.525299"
+        "LAST_CHECK": "2025-04-15T23:33:22.157075"
     },
     "ACCOUNT_NUMBER_3957": {
         "CASE_NUMBER": "3957",
@@ -95137,7 +95133,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:13.663159"
+        "LAST_CHECK": "2025-04-15T23:33:25.292697"
     },
     "ACCOUNT_NUMBER_3965": {
         "CASE_NUMBER": "3965",
@@ -95281,7 +95277,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:13.798151"
+        "LAST_CHECK": "2025-04-15T23:33:25.417349"
     },
     "ACCOUNT_NUMBER_3971": {
         "CASE_NUMBER": "3971",
@@ -95305,7 +95301,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:13.931152"
+        "LAST_CHECK": "2025-04-15T23:33:25.543357"
     },
     "ACCOUNT_NUMBER_3972": {
         "CASE_NUMBER": "3972",
@@ -95473,7 +95469,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:14.063151"
+        "LAST_CHECK": "2025-04-15T23:33:25.694364"
     },
     "ACCOUNT_NUMBER_3979": {
         "CASE_NUMBER": "3979",
@@ -95521,7 +95517,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:17.212940"
+        "LAST_CHECK": "2025-04-15T23:33:28.832237"
     },
     "ACCOUNT_NUMBER_3981": {
         "CASE_NUMBER": "3981",
@@ -95545,7 +95541,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:17.339951"
+        "LAST_CHECK": "2025-04-15T23:33:28.959755"
     },
     "ACCOUNT_NUMBER_3982": {
         "CASE_NUMBER": "3982",
@@ -95569,7 +95565,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:17.467958"
+        "LAST_CHECK": "2025-04-15T23:33:29.092750"
     },
     "ACCOUNT_NUMBER_3983": {
         "CASE_NUMBER": "3983",
@@ -95665,7 +95661,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:17.597964"
+        "LAST_CHECK": "2025-04-15T23:33:29.218957"
     },
     "ACCOUNT_NUMBER_3987": {
         "CASE_NUMBER": "3987",
@@ -95689,7 +95685,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:17.727979"
+        "LAST_CHECK": "2025-04-15T23:33:29.344939"
     },
     "ACCOUNT_NUMBER_3988": {
         "CASE_NUMBER": "3988",
@@ -95713,7 +95709,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:20.860692"
+        "LAST_CHECK": "2025-04-15T23:33:32.486555"
     },
     "ACCOUNT_NUMBER_3989": {
         "CASE_NUMBER": "3989",
@@ -95737,7 +95733,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:20.989598"
+        "LAST_CHECK": "2025-04-15T23:33:32.612157"
     },
     "ACCOUNT_NUMBER_3990": {
         "CASE_NUMBER": "3990",
@@ -95756,12 +95752,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/pornhuub",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/pornhuub",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:24.136550"
+        "LAST_CHECK": "2025-04-15T23:33:35.744452"
     },
     "ACCOUNT_NUMBER_3991": {
         "CASE_NUMBER": "3991",
@@ -95785,7 +95781,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:24.266550"
+        "LAST_CHECK": "2025-04-15T23:33:35.870391"
     },
     "ACCOUNT_NUMBER_3992": {
         "CASE_NUMBER": "3992",
@@ -95929,7 +95925,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:27.403672"
+        "LAST_CHECK": "2025-04-15T23:33:39.000106"
     },
     "ACCOUNT_NUMBER_3998": {
         "CASE_NUMBER": "3998",
@@ -95953,7 +95949,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:27.530080"
+        "LAST_CHECK": "2025-04-15T23:33:39.127091"
     },
     "ACCOUNT_NUMBER_3999": {
         "CASE_NUMBER": "3999",
@@ -95977,7 +95973,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:27.660078"
+        "LAST_CHECK": "2025-04-15T23:33:39.256091"
     },
     "ACCOUNT_NUMBER_4000": {
         "CASE_NUMBER": "4000",
@@ -96073,7 +96069,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:27.786078"
+        "LAST_CHECK": "2025-04-15T23:33:39.382119"
     },
     "ACCOUNT_NUMBER_4004": {
         "CASE_NUMBER": "4004",
@@ -96097,7 +96093,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:27.913047"
+        "LAST_CHECK": "2025-04-15T23:33:39.508119"
     },
     "ACCOUNT_NUMBER_4005": {
         "CASE_NUMBER": "4005",
@@ -96121,7 +96117,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:28.041050"
+        "LAST_CHECK": "2025-04-15T23:33:39.634116"
     },
     "ACCOUNT_NUMBER_4006": {
         "CASE_NUMBER": "4006",
@@ -96193,7 +96189,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:28.170048"
+        "LAST_CHECK": "2025-04-15T23:33:39.760119"
     },
     "ACCOUNT_NUMBER_4009": {
         "CASE_NUMBER": "4009",
@@ -96212,12 +96208,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/tiktokhomes",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "INACTIVE",
+        "SURFACE_URL_STATUS": "ACTIVE",
         "FINAL_URL": "https://discord.com/invite/tiktokhomes",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "INACTIVE",
+        "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:31.300801"
+        "LAST_CHECK": "2025-04-15T23:33:42.887828"
     },
     "ACCOUNT_NUMBER_4010": {
         "CASE_NUMBER": "4010",
@@ -96409,7 +96405,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:31.533799"
+        "LAST_CHECK": "2025-04-15T23:33:43.016753"
     },
     "ACCOUNT_NUMBER_4018": {
         "CASE_NUMBER": "4018",
@@ -96433,7 +96429,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:31.767800"
+        "LAST_CHECK": "2025-04-15T23:33:43.143782"
     },
     "ACCOUNT_NUMBER_4019": {
         "CASE_NUMBER": "4019",
@@ -96457,7 +96453,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:31.965799"
+        "LAST_CHECK": "2025-04-15T23:33:43.270754"
     },
     "ACCOUNT_NUMBER_4020": {
         "CASE_NUMBER": "4020",
@@ -96697,7 +96693,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:32.104798"
+        "LAST_CHECK": "2025-04-15T23:33:43.399782"
     },
     "ACCOUNT_NUMBER_4030": {
         "CASE_NUMBER": "4030",
@@ -96817,7 +96813,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:32.230798"
+        "LAST_CHECK": "2025-04-15T23:33:43.529769"
     },
     "ACCOUNT_NUMBER_4035": {
         "CASE_NUMBER": "4035",
@@ -96865,7 +96861,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T21:54:35.368837"
+        "LAST_CHECK": "2025-04-15T23:33:46.657277"
     },
     "ACCOUNT_NUMBER_4037": {
         "CASE_NUMBER": "4037",
@@ -96932,12 +96928,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/teen-sex",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/teen-sex",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:49.793470"
     },
     "ACCOUNT_NUMBER_4040": {
         "CASE_NUMBER": "4040",
@@ -96956,12 +96952,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/egirl-haven",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/egirl-haven",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:49.919406"
     },
     "ACCOUNT_NUMBER_4041": {
         "CASE_NUMBER": "4041",
@@ -96980,12 +96976,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/e-womans",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/e-womans",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:53.050912"
     },
     "ACCOUNT_NUMBER_4042": {
         "CASE_NUMBER": "4042",
@@ -97004,12 +97000,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/e-womans",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/e-womans",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:53.176942"
     },
     "ACCOUNT_NUMBER_4043": {
         "CASE_NUMBER": "4043",
@@ -97100,12 +97096,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/e-womans",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/e-womans",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:53.304500"
     },
     "ACCOUNT_NUMBER_4047": {
         "CASE_NUMBER": "4047",
@@ -97124,12 +97120,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/e-womans",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/e-womans",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:53.430499"
     },
     "ACCOUNT_NUMBER_4048": {
         "CASE_NUMBER": "4048",
@@ -97148,12 +97144,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/e-womans",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/e-womans",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:53.558511"
     },
     "ACCOUNT_NUMBER_4049": {
         "CASE_NUMBER": "4049",
@@ -97172,12 +97168,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/brhots",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/brhots",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:53.688533"
     },
     "ACCOUNT_NUMBER_4050": {
         "CASE_NUMBER": "4050",
@@ -97196,12 +97192,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/brhots",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/brhots",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:53.814543"
     },
     "ACCOUNT_NUMBER_4051": {
         "CASE_NUMBER": "4051",
@@ -97225,7 +97221,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:56.954678"
     },
     "ACCOUNT_NUMBER_4052": {
         "CASE_NUMBER": "4052",
@@ -97244,12 +97240,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/egirl-haven",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/egirl-haven",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:57.080607"
     },
     "ACCOUNT_NUMBER_4053": {
         "CASE_NUMBER": "4053",
@@ -97364,12 +97360,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/egirl-haven",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/egirl-haven",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:57.206609"
     },
     "ACCOUNT_NUMBER_4058": {
         "CASE_NUMBER": "4058",
@@ -97388,12 +97384,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/e-womans",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/e-womans",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:33:57.331607"
     },
     "ACCOUNT_NUMBER_4059": {
         "CASE_NUMBER": "4059",
@@ -97484,12 +97480,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/Kgs4TzDWPS",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/Kgs4TzDWPS",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:00.465745"
     },
     "ACCOUNT_NUMBER_4063": {
         "CASE_NUMBER": "4063",
@@ -97748,12 +97744,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/egirl-haven",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/egirl-haven",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:00.603689"
     },
     "ACCOUNT_NUMBER_4074": {
         "CASE_NUMBER": "4074",
@@ -97868,12 +97864,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/T8ce2H4wkS",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/T8ce2H4wkS",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:03.745010"
     },
     "ACCOUNT_NUMBER_4079": {
         "CASE_NUMBER": "4079",
@@ -97916,12 +97912,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/T8ce2H4wkS",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/T8ce2H4wkS",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:03.885010"
     },
     "ACCOUNT_NUMBER_4081": {
         "CASE_NUMBER": "4081",
@@ -98084,12 +98080,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/sPsyN9K3xh",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/sPsyN9K3xh",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:07.017135"
     },
     "ACCOUNT_NUMBER_4088": {
         "CASE_NUMBER": "4088",
@@ -98300,12 +98296,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/solarareal",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/solarareal",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:10.155836"
     },
     "ACCOUNT_NUMBER_4097": {
         "CASE_NUMBER": "4097",
@@ -98588,12 +98584,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/e-boobsnudes",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/e-boobsnudes",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:13.298082"
     },
     "ACCOUNT_NUMBER_4109": {
         "CASE_NUMBER": "4109",
@@ -99956,12 +99952,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/checknudes",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/checknudes",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:16.427797"
     },
     "ACCOUNT_NUMBER_4166": {
         "CASE_NUMBER": "4166",
@@ -100820,12 +100816,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/m8DZqGvYTm",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/m8DZqGvYTm",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:19.569629"
     },
     "ACCOUNT_NUMBER_4202": {
         "CASE_NUMBER": "4202",
@@ -101905,7 +101901,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:22.711422"
     },
     "ACCOUNT_NUMBER_4247": {
         "CASE_NUMBER": "4247",
@@ -102812,12 +102808,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/RE5hp9W2",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/RE5hp9W2",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:25.861395"
     },
     "ACCOUNT_NUMBER_4285": {
         "CASE_NUMBER": "4285",
@@ -102980,12 +102976,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/q7PJsCWN",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/q7PJsCWN",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:28.998882"
     },
     "ACCOUNT_NUMBER_4292": {
         "CASE_NUMBER": "4292",
@@ -105068,12 +105064,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/ppd4U35TGQ",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/ppd4U35TGQ",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:32.133114"
     },
     "ACCOUNT_NUMBER_4379": {
         "CASE_NUMBER": "4379",
@@ -105116,12 +105112,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/U3cBgqx6",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/U3cBgqx6",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:35.276177"
     },
     "ACCOUNT_NUMBER_4381": {
         "CASE_NUMBER": "4381",
@@ -107785,7 +107781,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:38.427351"
     },
     "ACCOUNT_NUMBER_4492": {
         "CASE_NUMBER": "4492",
@@ -107804,12 +107800,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/SpJqNPaB6Y",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/SpJqNPaB6Y",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:41.561243"
     },
     "ACCOUNT_NUMBER_4493": {
         "CASE_NUMBER": "4493",
@@ -107833,7 +107829,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:44.697459"
     },
     "ACCOUNT_NUMBER_4494": {
         "CASE_NUMBER": "4494",
@@ -107857,7 +107853,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:44.827437"
     },
     "ACCOUNT_NUMBER_4495": {
         "CASE_NUMBER": "4495",
@@ -108073,7 +108069,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:47.963400"
     },
     "ACCOUNT_NUMBER_4504": {
         "CASE_NUMBER": "4504",
@@ -108308,12 +108304,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/z3H5TXYF",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/z3H5TXYF",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:51.096335"
     },
     "ACCOUNT_NUMBER_4514": {
         "CASE_NUMBER": "4514",
@@ -108649,7 +108645,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:54.231497"
     },
     "ACCOUNT_NUMBER_4528": {
         "CASE_NUMBER": "4528",
@@ -108668,12 +108664,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/DB6XsaXg",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/DB6XsaXg",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:34:57.374491"
     },
     "ACCOUNT_NUMBER_4529": {
         "CASE_NUMBER": "4529",
@@ -108980,12 +108976,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/decXGdJNbF",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/decXGdJNbF",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:00.508386"
     },
     "ACCOUNT_NUMBER_4542": {
         "CASE_NUMBER": "4542",
@@ -109081,7 +109077,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:03.639456"
     },
     "ACCOUNT_NUMBER_4546": {
         "CASE_NUMBER": "4546",
@@ -109105,7 +109101,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:03.768486"
     },
     "ACCOUNT_NUMBER_4547": {
         "CASE_NUMBER": "4547",
@@ -109129,7 +109125,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:03.896455"
     },
     "ACCOUNT_NUMBER_4548": {
         "CASE_NUMBER": "4548",
@@ -109225,7 +109221,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:07.040477"
     },
     "ACCOUNT_NUMBER_4552": {
         "CASE_NUMBER": "4552",
@@ -109297,7 +109293,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:07.169387"
     },
     "ACCOUNT_NUMBER_4555": {
         "CASE_NUMBER": "4555",
@@ -109316,12 +109312,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/decXGdJNbF",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/decXGdJNbF",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:07.298435"
     },
     "ACCOUNT_NUMBER_4556": {
         "CASE_NUMBER": "4556",
@@ -109412,12 +109408,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/j6kxQ4krtc",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/j6kxQ4krtc",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:10.432068"
     },
     "ACCOUNT_NUMBER_4560": {
         "CASE_NUMBER": "4560",
@@ -109508,12 +109504,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/nsfwteens",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/nsfwteens",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:13.557444"
     },
     "ACCOUNT_NUMBER_4564": {
         "CASE_NUMBER": "4564",
@@ -109537,7 +109533,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:13.695446"
     },
     "ACCOUNT_NUMBER_4565": {
         "CASE_NUMBER": "4565",
@@ -109580,12 +109576,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/EU6BRVn3CT",
         "SURFACE_URL_DOMAIN": "discord.com",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/EU6BRVn3CT",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-09T02:36:30.479033"
+        "LAST_CHECK": "2025-04-15T23:35:16.838209"
     },
     "ACCOUNT_NUMBER_4567": {
         "CASE_NUMBER": "4567",
@@ -109604,12 +109600,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/j6kxQ4krtc",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/j6kxQ4krtc",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:16.971160"
     },
     "ACCOUNT_NUMBER_4568": {
         "CASE_NUMBER": "4568",
@@ -109801,7 +109797,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:20.106282"
     },
     "ACCOUNT_NUMBER_4576": {
         "CASE_NUMBER": "4576",
@@ -109820,12 +109816,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/lunas",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/lunas",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:23.255629"
     },
     "ACCOUNT_NUMBER_4577": {
         "CASE_NUMBER": "4577",
@@ -109849,7 +109845,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:23.388629"
     },
     "ACCOUNT_NUMBER_4578": {
         "CASE_NUMBER": "4578",
@@ -109868,12 +109864,12 @@
         "SUSPECTED_REGION_OF_ORIGIN": "US",
         "SURFACE_URL": "https://discord.gg/pdSpU3UnKV",
         "SURFACE_URL_DOMAIN": "discord.gg",
-        "SURFACE_URL_STATUS": "ACTIVE",
+        "SURFACE_URL_STATUS": "INACTIVE",
         "FINAL_URL": "https://discord.com/invite/pdSpU3UnKV",
         "FINAL_URL_DOMAIN": "discord.com",
-        "FINAL_URL_STATUS": "ACTIVE",
+        "FINAL_URL_STATUS": "INACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:26.523304"
     },
     "ACCOUNT_NUMBER_4579": {
         "CASE_NUMBER": "4579",
@@ -109897,7 +109893,7 @@
         "FINAL_URL_DOMAIN": "discord.com",
         "FINAL_URL_STATUS": "ACTIVE",
         "NON_ASCII_USERNAME": false,
-        "LAST_CHECK": "2025-04-14T20:58:54.856065"
+        "LAST_CHECK": "2025-04-15T23:35:26.648240"
     },
     "ACCOUNT_NUMBER_4580": {
         "CASE_NUMBER": "4580",
