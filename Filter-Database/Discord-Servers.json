@@ -77288,5 +77288,25 @@
         "SERVER_STATUS_CHANGE": "UNKNOWN",
         "INVITE_STATUS": "UNKNOWN",
         "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7730": {
+        "INVITE_URL": "https://discord.com/invite/wildworld",
+        "FOUND_ON": 1738707527,
+        "SERVER_ID": "1336460978144936017",
+        "REASON": "Server affiliated with skids",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7731": {
+        "INVITE_URL": "https://discord.com/invite/Ph7RVBCBpA",
+        "FOUND_ON": 1609516996,
+        "SERVER_ID": "794596617314893844",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
     }
 }
