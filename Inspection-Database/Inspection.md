@@ -113,6 +113,6 @@
 - UNKNOWN
 
 ## Additional Entries
-- **Discord IDs**: 4561 entries
-- **Discord Servers**: 7731 entries
-- **Global Domains**: 35665 entries
+- **Discord IDs**: 4568 entries
+- **Discord Servers**: 7736 entries
+- **Global Domains**: 35695 entries
