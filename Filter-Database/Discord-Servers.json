@@ -77378,5 +77378,55 @@
         "SERVER_STATUS_CHANGE": "UNKNOWN",
         "INVITE_STATUS": "UNKNOWN",
         "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7739": {
+        "INVITE_URL": "https://discord.com/invite/artistdao",
+        "FOUND_ON": 1744635794,
+        "SERVER_ID": "1361325934162088126",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7740": {
+        "INVITE_URL": "https://discord.com/invite/cZRfBMzfHH",
+        "FOUND_ON": 1621249820,
+        "SERVER_ID": "843807649937096755",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7741": {
+        "INVITE_URL": "https://discord.com/invite/asstok",
+        "FOUND_ON": 1743272299,
+        "SERVER_ID": "1355607019494572103",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7742": {
+        "INVITE_URL": "https://discord.com/invite/issue-description",
+        "FOUND_ON": 1742281620,
+        "SERVER_ID": "1351451812863021108",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7743": {
+        "INVITE_URL": "https://discord.com/invite/QspMgEUU6V",
+        "FOUND_ON": 1744837048,
+        "SERVER_ID": "1362170054229360640",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
     }
 }
