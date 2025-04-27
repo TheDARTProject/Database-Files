@@ -77428,5 +77428,55 @@
         "SERVER_STATUS_CHANGE": "UNKNOWN",
         "INVITE_STATUS": "UNKNOWN",
         "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7744": {
+        "INVITE_URL": "https://discord.com/invite/V38xADkp",
+        "FOUND_ON": 1688552447,
+        "SERVER_ID": "1126095326604955729",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7745": {
+        "INVITE_URL": "https://discord.com/invite/7vVANFkyhu",
+        "FOUND_ON": 1745359537,
+        "SERVER_ID": "1364361529427759218",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7746": {
+        "INVITE_URL": "https://discord.com/invite/zbs",
+        "FOUND_ON": 1692874222,
+        "SERVER_ID": "1144222162400595988",
+        "REASON": "TOS breaking guild",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7747": {
+        "INVITE_URL": "https://discord.com/invite/vcngDAHSAv",
+        "FOUND_ON": 1745605749,
+        "SERVER_ID": "1365394217421246505",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7748": {
+        "INVITE_URL": "https://discord.com/invite/H88sCzPs43",
+        "FOUND_ON": 1613161910,
+        "SERVER_ID": "809884494076182598",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
     }
 }
