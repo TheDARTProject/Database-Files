@@ -1,10 +1,10 @@
 <div align="center">
 
-# Database Inspection - 2025-04-27
+# Database Inspection - 2025-04-28
 
-## Total Cases: 4630
+## Total Cases: 4725
 
-## Protected Members: 332,809
+## Protected Members: 332,666
 
 </div>
 
@@ -12,6 +12,7 @@
 - ANONYMOUS_SERVER_1
 - ANONYMOUS_SERVER_2
 - ANONYMOUS_SERVER_3
+- BANANA
 - BIGTIME
 - BLITZHUB_EU
 - BLITZPOST
@@ -54,6 +55,7 @@
 - Rogue Developers
 - Support Impersonation
 - Telegram Fraud
+- Unknown Method
 
 ## Attack Vector
 - Artist Impersonation
@@ -113,6 +115,6 @@
 - UNKNOWN
 
 ## Additional Entries
-- **Discord IDs**: 4591 entries
-- **Discord Servers**: 7748 entries
-- **Global Domains**: 35731 entries
+- **Discord IDs**: 4683 entries
+- **Discord Servers**: 7750 entries
+- **Global Domains**: 35737 entries
