@@ -1,10 +1,10 @@
 <div align="center">
 
-# Database Inspection - 2025-05-12
+# Database Inspection - 2025-05-16
 
-## Total Cases: 4760
+## Total Cases: 4769
 
-## Protected Members: 340,480
+## Protected Members: 340,365
 
 </div>
 
@@ -115,6 +115,6 @@
 - UNKNOWN
 
 ## Additional Entries
-- **Discord IDs**: 4717 entries
-- **Discord Servers**: 7813 entries
-- **Global Domains**: 35819 entries
+- **Discord IDs**: 4726 entries
+- **Discord Servers**: 7819 entries
+- **Global Domains**: 35828 entries
