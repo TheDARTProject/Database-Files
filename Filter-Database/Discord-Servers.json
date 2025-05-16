@@ -78128,5 +78128,65 @@
         "SERVER_STATUS_CHANGE": "UNKNOWN",
         "INVITE_STATUS": "UNKNOWN",
         "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7814": {
+        "INVITE_URL": "https://discord.com/invite/NMbC5Aggm6",
+        "FOUND_ON": 1742657160,
+        "SERVER_ID": "1353026939626979388",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7815": {
+        "INVITE_URL": "https://discord.com/invite/JBabEbpmuT",
+        "FOUND_ON": 1736515060,
+        "SERVER_ID": "1327265106932924427",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7816": {
+        "INVITE_URL": "https://discord.com/invite/kAkQjygNdu",
+        "FOUND_ON": 1746813687,
+        "SERVER_ID": "1370460679403733164",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7817": {
+        "INVITE_URL": "https://discord.com/invite/ithaca",
+        "FOUND_ON": 1746547555,
+        "SERVER_ID": "1369344440388423812",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7818": {
+        "INVITE_URL": "https://discord.com/invite/DvcND3QS",
+        "FOUND_ON": 1744803850,
+        "SERVER_ID": "1362030809221042326",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7819": {
+        "INVITE_URL": "https://discord.com/invite/bitmap",
+        "FOUND_ON": 1746545277,
+        "SERVER_ID": "1369334885751193741",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
     }
 }
