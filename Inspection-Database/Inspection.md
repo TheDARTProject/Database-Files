@@ -1,10 +1,10 @@
 <div align="center">
 
-# Database Inspection - 2025-05-26
+# Database Inspection - 2025-05-28
 
-## Total Cases: 4876
+## Total Cases: 4886
 
-## Protected Members: 341,662
+## Protected Members: 341,500
 
 </div>
 
@@ -107,6 +107,7 @@
 ## Final Url Status
 - ACTIVE
 - INACTIVE
+- No URL Sent
 - UNKNOWN
 
 ## Surface Url Status
@@ -115,6 +116,6 @@
 - UNKNOWN
 
 ## Additional Entries
-- **Discord IDs**: 4832 entries
-- **Discord Servers**: 7843 entries
-- **Global Domains**: 35860 entries
+- **Discord IDs**: 4842 entries
+- **Discord Servers**: 7850 entries
+- **Global Domains**: 35867 entries
