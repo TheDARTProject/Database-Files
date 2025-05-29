@@ -25,14 +25,14 @@ Primary repository for storing and managing threat intelligence data.
 ⚠️ **Warning**: Never edit `Main-Database/` directly.
 
 <!-- INSPECTION-START -->
-## Latest Database Inspection - 2025-05-28
+## Latest Database Inspection - 2025-05-30
 
 **Inspection File**: [`Inspection.md`](Inspection-Database/Inspection.md)  
-- **Total Cases**: 4886
-- **Protected Members**: 341,500
-- **Discord IDs**: 4842 entries
-- **Discord Servers**: 7850 entries
-- **Global Domains**: 35867 entries
+- **Total Cases**: 4904
+- **Protected Members**: 341,619
+- **Discord IDs**: 4860 entries
+- **Discord Servers**: 7854 entries
+- **Global Domains**: 35882 entries
 <!-- INSPECTION-END -->
 
 <div align="center">
