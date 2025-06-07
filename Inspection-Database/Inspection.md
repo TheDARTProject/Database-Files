@@ -4,7 +4,7 @@
 
 ## Total Cases: 4944
 
-## Protected Members: 340,785
+## Protected Members: 340,745
 
 </div>
 
@@ -118,4 +118,4 @@
 ## Additional Entries
 - **Discord IDs**: 4900 entries
 - **Discord Servers**: 7881 entries
-- **Global Domains**: 35933 entries
+- **Global Domains**: 35934 entries
