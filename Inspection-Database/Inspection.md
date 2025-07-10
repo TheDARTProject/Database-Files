@@ -4,7 +4,7 @@
 
 ## Total Cases: 5078
 
-## Protected Members: 340,356
+## Protected Members: 340,366
 
 </div>
 
@@ -91,17 +91,17 @@
 - Telegram
 
 ## Suspected Region Of Origin
+- AE
 - BE
-- CA
+- CZ
 - DE
 - FR
-- HU
 - IN
 - N/A
+- NL
 - RO
 - RU
 - SG
-- SK
 - US
 
 ## Final Url Status
@@ -117,6 +117,6 @@
 - UNKNOWN
 
 ## Additional Entries
-- **Discord IDs**: 4900 entries
-- **Discord Servers**: 7881 entries
-- **Global Domains**: 35934 entries
+- **Discord IDs**: 5034 entries
+- **Discord Servers**: 7939 entries
+- **Global Domains**: 36044 entries

@@ -29,10 +29,10 @@ Primary repository for storing and managing threat intelligence data.
 
 **Inspection File**: [`Inspection.md`](Inspection-Database/Inspection.md)  
 - **Total Cases**: 5078
-- **Protected Members**: 340,356
-- **Discord IDs**: 4900 entries
-- **Discord Servers**: 7881 entries
-- **Global Domains**: 35934 entries
+- **Protected Members**: 340,366
+- **Discord IDs**: 5034 entries
+- **Discord Servers**: 7939 entries
+- **Global Domains**: 36044 entries
 <!-- INSPECTION-END -->
 
 <div align="center">
