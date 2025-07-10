@@ -1,10 +1,10 @@
 <div align="center">
 
-# Database Inspection - 2025-06-07
+# Database Inspection - 2025-07-10
 
-## Total Cases: 4944
+## Total Cases: 5078
 
-## Protected Members: 340,745
+## Protected Members: 340,356
 
 </div>
 
@@ -107,6 +107,7 @@
 ## Final Url Status
 - ACTIVE
 - INACTIVE
+- No URL Detected
 - No URL Sent
 - UNKNOWN
 
