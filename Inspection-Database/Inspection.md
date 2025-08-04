@@ -1,10 +1,10 @@
 <div align="center">
 
-# Database Inspection - 2025-07-10
+# Database Inspection - 2025-08-04
 
-## Total Cases: 5078
+## Total Cases: 5286
 
-## Protected Members: 340,366
+## Protected Members: 339,785
 
 </div>
 
@@ -19,6 +19,7 @@
 - CRYPTOCURRENCY
 - DIRECT_MESSAGES
 - PROJECT_CW
+- PROJECT_OWL
 - SINEWAVE_DEVELOPMENT
 - SPYPET
 
@@ -53,6 +54,7 @@
 - NSFW Discord Invite
 - Phishing Website
 - Rogue Developers
+- Rogue VPN Services
 - Support Impersonation
 - Telegram Fraud
 - Unknown Method
@@ -69,6 +71,7 @@
 - Message Scraping
 - Reward Baiting
 - Romance Scam
+- Server Support
 - Session Hijacking
 - Steam Support
 - Telegram Channels
