@@ -79388,5 +79388,485 @@
         "SERVER_STATUS_CHANGE": "UNKNOWN",
         "INVITE_STATUS": "UNKNOWN",
         "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7940": {
+        "INVITE_URL": "https://discord.com/invite/egyz39km",
+        "FOUND_ON": 1749616981,
+        "SERVER_ID": "1382218546502697062",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7941": {
+        "INVITE_URL": "https://discord.com/invite/thealienboynft",
+        "FOUND_ON": 1711834556,
+        "SERVER_ID": "1223747569155313836",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7942": {
+        "INVITE_URL": "https://discord.com/invite/yume-labs",
+        "FOUND_ON": 1715655002,
+        "SERVER_ID": "1239771682038747186",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7943": {
+        "INVITE_URL": "https://discord.com/invite/zero",
+        "FOUND_ON": 1748037231,
+        "SERVER_ID": "1375592591944585236",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7944": {
+        "INVITE_URL": "https://discord.com/invite/xprnetwork",
+        "FOUND_ON": 1749663021,
+        "SERVER_ID": "1382411648706543729",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7945": {
+        "INVITE_URL": "https://discord.com/invite/wuffi",
+        "FOUND_ON": 1750012352,
+        "SERVER_ID": "1383876853114077317",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7946": {
+        "INVITE_URL": "https://discord.com/invite/xeno",
+        "FOUND_ON": 1751790929,
+        "SERVER_ID": "1391336745605271642",
+        "REASON": "Force join authentication",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7947": {
+        "INVITE_URL": "https://discord.com/invite/solflarewallet",
+        "FOUND_ON": 1749616861,
+        "SERVER_ID": "1382218039956602890",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7948": {
+        "INVITE_URL": "https://discord.com/invite/swapify",
+        "FOUND_ON": 1732197385,
+        "SERVER_ID": "1309155462003818548",
+        "REASON": "Force join authentication",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7949": {
+        "INVITE_URL": "https://discord.com/invite/takerprotocol",
+        "FOUND_ON": 1736159842,
+        "SERVER_ID": "1325775212922277951",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7950": {
+        "INVITE_URL": "https://discord.com/invite/rubicexchange",
+        "FOUND_ON": 1735559931,
+        "SERVER_ID": "1323259002724810773",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7951": {
+        "INVITE_URL": "https://discord.com/invite/seedworld",
+        "FOUND_ON": 1746705241,
+        "SERVER_ID": "1370005823186665582",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7952": {
+        "INVITE_URL": "https://discord.com/invite/open-support",
+        "FOUND_ON": 1751198490,
+        "SERVER_ID": "1388851875909996607",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7953": {
+        "INVITE_URL": "https://discord.com/invite/8hYM4U4X",
+        "FOUND_ON": 1750136211,
+        "SERVER_ID": "1384396355144912976",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7954": {
+        "INVITE_URL": "https://discord.com/invite/waGrkkAnak",
+        "FOUND_ON": 1752078335,
+        "SERVER_ID": "1392542211370909718",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7955": {
+        "INVITE_URL": "https://discord.com/invite/8ZMW69Dc2S",
+        "FOUND_ON": 1742774545,
+        "SERVER_ID": "1353519289029886042",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7956": {
+        "INVITE_URL": "https://discord.com/invite/gateio",
+        "FOUND_ON": 1731753092,
+        "SERVER_ID": "1307291965968355370",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7957": {
+        "INVITE_URL": "https://discord.com/invite/BkfXu9qw",
+        "FOUND_ON": 1747719062,
+        "SERVER_ID": "1374258094930133083",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7958": {
+        "INVITE_URL": "https://discord.com/invite/atKrMCTAaq",
+        "FOUND_ON": 1750616353,
+        "SERVER_ID": "1386410213254627520",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7959": {
+        "INVITE_URL": "https://discord.com/invite/complains",
+        "FOUND_ON": 1740011187,
+        "SERVER_ID": "1341928923654656111",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7960": {
+        "INVITE_URL": "https://discord.com/invite/linea-eth",
+        "FOUND_ON": 1723901464,
+        "SERVER_ID": "1274359850008182806",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7961": {
+        "INVITE_URL": "https://discord.com/invite/jgMCW4CP",
+        "FOUND_ON": 1752858595,
+        "SERVER_ID": "1395814857470902304",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7962": {
+        "INVITE_URL": "https://discord.com/invite/Aun99pe8",
+        "FOUND_ON": 1752488176,
+        "SERVER_ID": "1394261209892520040",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7963": {
+        "INVITE_URL": "https://discord.com/invite/geTD9WSy3W",
+        "FOUND_ON": 1752090412,
+        "SERVER_ID": "1392592864902643894",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7964": {
+        "INVITE_URL": "https://discord.com/invite/yA442cuW",
+        "FOUND_ON": 1750382627,
+        "SERVER_ID": "1385429898608509010",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7965": {
+        "INVITE_URL": "https://discord.com/invite/GZDcHbKTG9",
+        "FOUND_ON": 1688106037,
+        "SERVER_ID": "1124222945347252266",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7966": {
+        "INVITE_URL": "https://discord.com/invite/KTgVazGWUE",
+        "FOUND_ON": 1738493459,
+        "SERVER_ID": "1335563113604579338",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7967": {
+        "INVITE_URL": "https://discord.com/invite/53FZRrMW",
+        "FOUND_ON": 1752878382,
+        "SERVER_ID": "1395897853779644486",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7968": {
+        "INVITE_URL": "https://discord.com/invite/blockgames",
+        "FOUND_ON": 1736958344,
+        "SERVER_ID": "1329124373826900120",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7969": {
+        "INVITE_URL": "https://discord.com/invite/kaijukingz",
+        "FOUND_ON": 1751516109,
+        "SERVER_ID": "1390184065633882152",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7970": {
+        "INVITE_URL": "https://discord.com/invite/3zCj6BS6v3",
+        "FOUND_ON": 1753427351,
+        "SERVER_ID": "1398200393749499934",
+        "REASON": "TOS breaking guild",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7971": {
+        "INVITE_URL": "https://discord.com/invite/KJmJJT5aVF",
+        "FOUND_ON": 1728024753,
+        "SERVER_ID": "1291654177109577730",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7972": {
+        "INVITE_URL": "https://discord.com/invite/EjPsgYf5",
+        "FOUND_ON": 1566553456,
+        "SERVER_ID": "614394469197938689",
+        "REASON": "TOS breaking guild",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7973": {
+        "INVITE_URL": "https://discord.com/invite/xuD954ggK3",
+        "FOUND_ON": 1753499400,
+        "SERVER_ID": "1398502591754928268",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7974": {
+        "INVITE_URL": "https://discord.com/invite/coinbasewallet",
+        "FOUND_ON": 1752747160,
+        "SERVER_ID": "1395347467251351552",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7975": {
+        "INVITE_URL": "https://discord.com/invite/onxrp",
+        "FOUND_ON": 1736958613,
+        "SERVER_ID": "1329125503017156763",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7976": {
+        "INVITE_URL": "https://discord.com/invite/submit-help-request",
+        "FOUND_ON": 1751728665,
+        "SERVER_ID": "1391075587560308796",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7977": {
+        "INVITE_URL": "https://discord.com/invite/alienfrens",
+        "FOUND_ON": 1753452783,
+        "SERVER_ID": "1398307062877913108",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7978": {
+        "INVITE_URL": "https://discord.com/invite/PScMsBWDHv",
+        "FOUND_ON": 1707409545,
+        "SERVER_ID": "1205187725796315157",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7979": {
+        "INVITE_URL": "https://discord.com/invite/jezzzy",
+        "FOUND_ON": 1750095106,
+        "SERVER_ID": "1384223947750506647",
+        "REASON": "Force join authentication",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7980": {
+        "INVITE_URL": "https://discord.com/invite/am7gwJQE",
+        "FOUND_ON": 1753997645,
+        "SERVER_ID": "1400592379874115745",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7981": {
+        "INVITE_URL": "https://discord.com/invite/yjYgkCRZ",
+        "FOUND_ON": 1754011736,
+        "SERVER_ID": "1400651484575567873",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7982": {
+        "INVITE_URL": "https://discord.com/invite/monoswap",
+        "FOUND_ON": 1732216910,
+        "SERVER_ID": "1309237359661023354",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7983": {
+        "INVITE_URL": "https://discord.com/invite/Su7gz3BPCk",
+        "FOUND_ON": 1599362873,
+        "SERVER_ID": "752007139073065068",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7984": {
+        "INVITE_URL": "https://discord.com/invite/wtdrhswn",
+        "FOUND_ON": 1749575577,
+        "SERVER_ID": "1382044883795316836",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7985": {
+        "INVITE_URL": "https://discord.com/invite/Q47DJ2H2",
+        "FOUND_ON": 1752004071,
+        "SERVER_ID": "1392230725310353498",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7986": {
+        "INVITE_URL": "https://discord.com/invite/cTRbYccFQX",
+        "FOUND_ON": 1610745573,
+        "SERVER_ID": "799749643936333884",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
+    },
+    "DISCORD_SERVER_7987": {
+        "INVITE_URL": "https://discord.com/invite/HzpbX2R7",
+        "FOUND_ON": 1711844266,
+        "SERVER_ID": "1223788297344520225",
+        "REASON": "Fake QR code verification",
+        "SERVER_STATUS": "UNKNOWN",
+        "SERVER_STATUS_CHANGE": "UNKNOWN",
+        "INVITE_STATUS": "UNKNOWN",
+        "INVITE_STATUS_CHANGE": "UNKNOWN"
     }
 }
