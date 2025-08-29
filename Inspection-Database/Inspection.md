@@ -1,10 +1,10 @@
 <div align="center">
 
-# Database Inspection - 2025-08-04
+# Database Inspection - 2025-08-29
 
-## Total Cases: 5286
+## Total Cases: 5500
 
-## Protected Members: 339,785
+## Protected Members: 335,841
 
 </div>
 
@@ -18,10 +18,10 @@
 - BLITZPOST
 - CRYPTOCURRENCY
 - DIRECT_MESSAGES
-- PROJECT_CW
 - PROJECT_OWL
 - SINEWAVE_DEVELOPMENT
 - SPYPET
+- WOT_HEAT
 
 ## Account Status
 - COMPROMISED
@@ -120,6 +120,6 @@
 - UNKNOWN
 
 ## Additional Entries
-- **Discord IDs**: 5034 entries
-- **Discord Servers**: 7939 entries
-- **Global Domains**: 36044 entries
+- **Discord IDs**: 5234 entries
+- **Discord Servers**: 7987 entries
+- **Global Domains**: 36195 entries
